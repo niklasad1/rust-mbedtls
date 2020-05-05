@@ -6,8 +6,6 @@
  * option. This file may not be copied, modified, or distributed except
  * according to those terms. */
 
-use cmake;
-
 use crate::have_feature;
 
 impl super::BuildConfig {
